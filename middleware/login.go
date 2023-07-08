@@ -2,9 +2,9 @@ package middleware
 
 import (
 	"encoding/base64"
-	"honoka-chan/database"
-	"honoka-chan/encrypt"
-	"honoka-chan/utils"
+	"nico-chan/database"
+	"nico-chan/encrypt"
+	"nico-chan/utils"
 
 	"github.com/gin-gonic/gin"
 	"github.com/tidwall/gjson"

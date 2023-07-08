@@ -1,8 +1,8 @@
 package main
 
 import (
-	"honoka-chan/router"
-	_ "honoka-chan/tools"
+	"nico-chan/router"
+	_ "nico-chan/tools"
 
 	"github.com/gin-gonic/gin"
 )

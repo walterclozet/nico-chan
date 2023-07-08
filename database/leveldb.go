@@ -2,7 +2,7 @@ package database
 
 import (
 	"errors"
-	"honoka-chan/config"
+	"nico-chan/config"
 
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/util"

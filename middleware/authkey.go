@@ -4,9 +4,9 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"honoka-chan/database"
-	"honoka-chan/encrypt"
-	"honoka-chan/utils"
+	"nico-chan/database"
+	"nico-chan/encrypt"
+	"nico-chan/utils"
 	"time"
 
 	"github.com/gin-gonic/gin"

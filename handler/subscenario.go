@@ -4,9 +4,9 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"honoka-chan/encrypt"
-	"honoka-chan/model"
-	"honoka-chan/utils"
+	"nico-chan/encrypt"
+	"nico-chan/model"
+	"nico-chan/utils"
 	"net/http"
 	"time"
 

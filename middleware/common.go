@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"fmt"
-	"honoka-chan/database"
+	"nico-chan/database"
 	"io"
 	"net/http"
 	"net/url"

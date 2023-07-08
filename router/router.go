@@ -1,8 +1,8 @@
 package router
 
 import (
-	"honoka-chan/handler"
-	"honoka-chan/middleware"
+	"nico-chan/handler"
+	"nico-chan/middleware"
 	"net/http"
 	"os"
 	"path/filepath"

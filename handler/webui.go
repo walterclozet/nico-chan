@@ -2,8 +2,8 @@ package handler
 
 import (
 	"encoding/json"
-	"honoka-chan/model"
-	"honoka-chan/utils"
+	"nico-chan/model"
+	"nico-chan/utils"
 	"net/http"
 	"path"
 	"time"

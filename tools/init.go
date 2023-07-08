@@ -2,8 +2,8 @@ package tools
 
 import (
 	"fmt"
-	"honoka-chan/config"
-	"honoka-chan/model"
+	"nico-chan/config"
+	"nico-chan/model"
 	"time"
 )
 

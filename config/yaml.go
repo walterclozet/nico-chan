@@ -5,7 +5,7 @@ package config
 
 import (
 	"fmt"
-	"honoka-chan/utils"
+	"nico-chan/utils"
 	"os"
 	"strconv"
 	"time"
@@ -31,7 +31,7 @@ func DefaultConfigs() *AppConfigs {
 	return &AppConfigs{
 		AppName: "LL! SIF Private Server",
 		LevelDb: LevelDbConfigs{
-			DataPath: "./data/honoka-chan.db",
+			DataPath: "./data/nico-chan.db",
 		},
 		Cdn: CdnConfigs{
 			CdnUrl: "",

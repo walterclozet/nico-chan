@@ -1,4 +1,4 @@
-module honoka-chan
+module nico-chan
 
 go 1.20
 

@@ -3,10 +3,10 @@ package handler
 import (
 	"encoding/json"
 	"fmt"
-	"honoka-chan/config"
-	"honoka-chan/encrypt"
-	"honoka-chan/model"
-	"honoka-chan/utils"
+	"nico-chan/config"
+	"nico-chan/encrypt"
+	"nico-chan/model"
+	"nico-chan/utils"
 	"time"
 
 	"xorm.io/xorm"

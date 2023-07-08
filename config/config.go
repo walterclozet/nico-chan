@@ -4,7 +4,7 @@
 package config
 
 import (
-	"honoka-chan/utils"
+	"nico-chan/utils"
 	"os"
 
 	_ "modernc.org/sqlite"
